@@ -2,9 +2,8 @@
 
 An end-to-end NLP project that classifies text into six human emotions:  
 **joy, sadness, anger, love, surprise, and fear**.
-
-👉 *Live Demo:* (Add your Streamlit Cloud URL here)  
-👉 *Training Notebook:* (Add link if uploaded)
+ 
+👉 *Training Notebook:* [https://github.com/ukj13codes/Emotion-Classifier-Project/blob/main/NLP_ML.ipynb]
 
 ---
 
